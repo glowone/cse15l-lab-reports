@@ -120,6 +120,8 @@ Yes, cat is supposed to display the contents of files, we've given it a director
 
 `cat`: 
 
+![image](https://github.com/glowone/cse15l-lab-reports/assets/146388424/a3eaf80a-1385-4475-8a99-fa03d4b45987)
+
 
 
 **Absolute path**
