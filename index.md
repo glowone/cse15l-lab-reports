@@ -91,5 +91,13 @@ Cd did it's job/did what it was asked of. Pwd confirmed it. It didn't return any
 `cat`: 
 The cat command is unable to do anything with a directory. 
 
+**Is the output an error or not?**
 
+`cd`: 
+No 
 
+`ls`: 
+No 
+
+`cat`: 
+Yes, cat is supposed to display the contents of files, we've given it a directory therefore it's unable to work. 
