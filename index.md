@@ -24,3 +24,9 @@ cat:
 `hi`
 
 `hi`
+
+**Absolute path** 
+
+`glowone@Manis-Laptop ~ % pwd`
+
+`/Users/glowone`
