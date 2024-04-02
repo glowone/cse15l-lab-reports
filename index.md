@@ -102,3 +102,33 @@ No
 
 `cat`: 
 Yes, cat is supposed to display the contents of files, we've given it a directory therefore it's unable to work. 
+
+---
+3) Share an example of using the command with a path to a file as an argument.
+---
+
+**Code Block:**
+
+`cd`: 
+
+`ls`: 
+
+`cat`: 
+
+**Absolute path**
+
+**Why did I get this output?** 
+
+`cd`: 
+
+`ls`: 
+
+`cat`: 
+
+**Is the output an error or not?**
+
+`cd`: 
+
+`ls`: 
+
+`cat`: 
