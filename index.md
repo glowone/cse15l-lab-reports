@@ -65,6 +65,9 @@ I think on a technical basis there is an error since we're using a change direct
 
 ![image](https://github.com/glowone/cse15l-lab-reports/assets/146388424/62c229a0-d1b3-41d6-8568-7d7ae6509f88)
 
+`cat`: 
+
+<img width="307" alt="Screenshot 2024-04-02 at 13 45 36" src="https://github.com/glowone/cse15l-lab-reports/assets/146388424/816a9b33-a7a6-4d14-b46e-e80f339361d6">
 
 **Absolute path** 
 Original path:
