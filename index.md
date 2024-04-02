@@ -95,10 +95,10 @@ The cat command is unable to do anything with a directory.
 **Is the output an error or not?**
 
 `cd`: 
-No 
+No. 
 
 `ls`: 
-No 
+No.
 
 `cat`: 
 Yes, cat is supposed to display the contents of files, we've given it a directory therefore it's unable to work. 
@@ -125,19 +125,27 @@ Yes, cat is supposed to display the contents of files, we've given it a director
 
 
 **Absolute path**
-
+`glowone@Manis-Laptop Work % pwd`
+`/Users/glowone/Work`
 **Why did I get this output?** 
 
 `cd`: 
+I think it's because you're not able to change your directory to a file, it has to be a folder which has contents inside of it. 
 
 `ls`: 
+`ls` still makes an attempt at displaying a list of contents, since we're working with a file the only content it's able to display is the filename, which it does. 
 
 `cat`: 
+cat's function is to display contents of a file. Since we're working with a file now it does what it's supposed to. 
 
 **Is the output an error or not?**
 
 `cd`: 
+It's definitely an error, cd is not made for working with files. 
 
 `ls`: 
+No.
 
-`cat`: 
+`cat`:
+No.
+
