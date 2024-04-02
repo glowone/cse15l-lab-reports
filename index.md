@@ -63,6 +63,8 @@ I think on a technical basis there is an error since we're using a change direct
 
 `ls`: 
 
+![image](https://github.com/glowone/cse15l-lab-reports/assets/146388424/62c229a0-d1b3-41d6-8568-7d7ae6509f88)
+
 
 **Absolute path** 
 Original path:
