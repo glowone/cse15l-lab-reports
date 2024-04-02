@@ -63,6 +63,7 @@ I think on a technical basis there is an error since we're using a change direct
 
 `ls`: 
 
+
 **Absolute path** 
 Original path:
 
@@ -71,6 +72,7 @@ Original path:
 `/Users/glowone`
 
 Absolute path after we used `cd Work`: 
+
 `/Users/glowone/Work`
 
 
