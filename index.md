@@ -110,11 +110,17 @@ Yes, cat is supposed to display the contents of files, we've given it a director
 **Code Block:**
 
 `cd`: 
+
 <img width="370" alt="Screenshot 2024-04-02 at 14 10 51" src="https://github.com/glowone/cse15l-lab-reports/assets/146388424/04c7787f-e78b-4d83-813d-d1b4731c5b3c">
 
 `ls`: 
 
+![image](https://github.com/glowone/cse15l-lab-reports/assets/146388424/f63e6b6d-e995-44ab-bcb6-cf7d2368a719)
+
+
 `cat`: 
+
+
 
 **Absolute path**
 
