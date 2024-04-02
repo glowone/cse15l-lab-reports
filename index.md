@@ -80,6 +80,16 @@ Absolute path after we used `cd Work`:
 
 `/Users/glowone/Work`
 
+**Why did I get this output?** 
+
+`cd`: 
+Cd did it's job/did what it was asked of. Pwd confirmed it. It didn't return anything because it didn't have to. 
+
+`ls`: 
+`ls School` opened up the list of objects within the School directory. 
+
+`cat`: 
+The cat command is unable to do anything with a directory. 
 
 
 
