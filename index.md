@@ -55,4 +55,8 @@ I think on a technical basis there is an error since we're using a change direct
 
 2. Share an example of using the command with a path to a directory as an argument.
 ---
+**Code Block** 
 
+`cd`: 
+
+https://github.com/glowone/cse15l-lab-reports/blob/main/Screenshot%202024-04-02%20at%2013.16.19.png
