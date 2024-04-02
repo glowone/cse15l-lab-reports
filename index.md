@@ -30,3 +30,8 @@ cat:
 `glowone@Manis-Laptop ~ % pwd`
 
 `/Users/glowone`
+
+**Why did I get this output?** 
+
+**Is the output an error or not?**
+
