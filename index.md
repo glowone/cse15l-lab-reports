@@ -58,7 +58,21 @@ I think on a technical basis there is an error since we're using a change direct
 **Code Block** 
 
 `cd`: 
+
 <img width="644" alt="Screenshot 2024-04-02 at 13 16 19" src="https://github.com/glowone/cse15l-lab-reports/assets/146388424/f7940407-9f42-4942-bcc9-ad17e57e4b0f">
 
+`ls`: 
 
-<img width="878" alt="Screenshot 2024-04-02 at 13 23 00" src="https://github.com/glowone/cse15l-lab-reports/assets/146388424/a5dff099-2c35-4885-a787-bc495ef2bd95">
+**Absolute path** 
+Original path:
+
+`glowone@Manis-Laptop ~ % pwd`
+
+`/Users/glowone`
+
+Absolute path after we used `cd Work`: 
+`/Users/glowone/Work`
+
+
+
+
