@@ -3,13 +3,13 @@
 --- 
 **Code Block** 
 
-cd: 
+`cd`: 
 
 `glowone@Manis-Laptop lecture1 % cd`
 
 `glowone@Manis-Laptop ~ %`
 
-ls: 
+`ls`: 
 
 `glowone@Manis-Laptop ~ % ls`
 
@@ -17,7 +17,7 @@ ls:
 Desktop         Downloads       Movies          Pictures        Work`
 
 
-cat: 
+`cat`: 
 
 `glowone@Manis-Laptop ~ % cat`
 
@@ -32,6 +32,9 @@ cat:
 `/Users/glowone`
 
 **Why did I get this output?** 
+
+`cd`: 
+stands for change directory, we didn't give it a directory to change for therefore nothing happens. I think on a technical basis there is an error, but we're throwing a null pointer expection which handles this case. 
 
 **Is the output an error or not?**
 
