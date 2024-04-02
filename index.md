@@ -51,5 +51,8 @@ I think on a technical basis there is an error since we're using a change direct
 
 `cat`: No. 
 
+--- 
 
+2. Share an example of using the command with a path to a directory as an argument.
+---
 
