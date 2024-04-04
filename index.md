@@ -5,32 +5,31 @@
 **Code Block** 
 
 `cd`: 
-
-`glowone@Manis-Laptop lecture1 % cd`
-
-`glowone@Manis-Laptop ~ %`
-
+```
+glowone@Manis-Laptop lecture1 % cd
+glowone@Manis-Laptop ~ %`
+```
 `ls`: 
-
-`glowone@Manis-Laptop ~ % ls`
-
+```
+glowone@Manis-Laptop ~ % ls
 `Applications    Documents       Library         Music           Public          lecture1
 Desktop         Downloads       Movies          Pictures        Work`
-
+```
 
 `cat`: 
+```
+glowone@Manis-Laptop ~ % cat
 
-`glowone@Manis-Laptop ~ % cat`
+hi
 
-`hi`
-
-`hi`
+hi
+```
 
 **Absolute path** 
-
-`glowone@Manis-Laptop ~ % pwd`
-
-`/Users/glowone`
+```
+glowone@Manis-Laptop ~ % pwd
+/Users/glowone
+```
 
 **Why did I get this output?** 
 
@@ -125,8 +124,12 @@ Yes, cat is supposed to display the contents of files, we've given it a director
 
 
 **Absolute path**
-`glowone@Manis-Laptop Work % pwd`
-`/Users/glowone/Work`
+
+```
+glowone@Manis-Laptop Work % pwd
+/Users/glowone/Work
+```
+
 **Why did I get this output?** 
 
 `cd`: 
