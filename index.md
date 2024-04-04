@@ -71,10 +71,10 @@ I think on a technical basis there is an error since we're using a change direct
 
 **Absolute path** 
 Original path:
-
-`glowone@Manis-Laptop ~ % pwd`
-
-`/Users/glowone`
+```
+glowone@Manis-Laptop ~ % pwd
+/Users/glowone
+```
 
 Absolute path after we used `cd Work`: 
 
