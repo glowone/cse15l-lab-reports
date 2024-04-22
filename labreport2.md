@@ -33,10 +33,19 @@ If `add-message` is true with its following inputs `s=` and `user`, we update al
 
 # Part 2
 
-I was trying to find the private and public keys but ls gets me only to where shown, I forgot/don't know how to access the keys upon login because I'm not prompted to anymore. 
-<img width="604" alt="Screenshot 2024-04-22 at 14 12 16" src="https://github.com/glowone/cse15l-lab-reports/assets/146388424/3fd048b2-3b7e-4979-bb9b-dd192465a852">
+Private key absolute path: 
 
-<img width="282" alt="Screenshot 2024-04-22 at 14 12 38" src="https://github.com/glowone/cse15l-lab-reports/assets/146388424/f8a7b0c8-7bfd-4943-baf6-3e8febb93c86">
+<img width="405" alt="Screenshot 2024-04-22 at 14 40 22" src="https://github.com/glowone/cse15l-lab-reports/assets/146388424/904c3304-a1de-4cd5-afff-46518a48212d">
+
+Public key absolute path: 
+
+<img width="567" alt="Screenshot 2024-04-22 at 14 41 48" src="https://github.com/glowone/cse15l-lab-reports/assets/146388424/395b414d-6493-4c6d-8a42-2b33d00fe36d">
+
+Terminal interaction without being asked for a password: 
+
+<img width="818" alt="Screenshot 2024-04-22 at 14 42 12" src="https://github.com/glowone/cse15l-lab-reports/assets/146388424/d05a3a4e-0b11-4d4b-a8ec-86fb7105d2ae">
+
+
 
 
 # Part 3
