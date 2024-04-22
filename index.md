@@ -127,7 +127,7 @@ Yes, cat is supposed to display the contents of files, we've given it a director
 
 ```
 glowone@Manis-Laptop Work % pwd
-/Users/glowone/Work
+/Users/glowone
 ```
 
 **Why did I get this output?** 
