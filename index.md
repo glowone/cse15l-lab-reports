@@ -34,9 +34,9 @@ glowone@Manis-Laptop ~ % pwd
 **Why did I get this output?** 
 
 `cd`: 
-stands for change directory, we didn't give it a directory to change for therefore nothing happens.
+stands for change directory, we didn't give it a directory to change to so it defaults to the home directory. 
 
-`ls`: Gives us a list of the files and directories within a path. In this case our absolute path is /Users/glowone, therefore we're able to see all the objects within /Users/glowone.
+`ls`: Gives us a list of the files and directories within a path. In this case our absolute path is `/Users/glowone`, therefore we're able to see all the objects within `/Users/glowone`.
 
 `cat`: 
 The cat command without any given arguments simply waits for input which it then echoes. 
@@ -45,7 +45,7 @@ The cat command without any given arguments simply waits for input which it then
 **Is the output an error or not?**
 
 `cd`: 
-I think on a technical basis there is an error since we're using a change directory command but not actually changing it to anything, but we're throwing a null pointer expection which handles this case. 
+No.
 
 `ls`: No.
 
@@ -83,7 +83,7 @@ Absolute path after we used `cd Work`:
 **Why did I get this output?** 
 
 `cd`: 
-Cd did it's job/did what it was asked of. Pwd confirmed it. It didn't return anything because it didn't have to. 
+`cd` did it's job/did what it was asked of. `pwd` confirmed it. It didn't return anything because it didn't have to. 
 
 `ls`: 
 `ls School` opened up the list of objects within the School directory. 
@@ -139,12 +139,12 @@ I think it's because you're not able to change your directory to a file, it has 
 `ls` still makes an attempt at displaying a list of contents, since we're working with a file the only content it's able to display is the filename, which it does. 
 
 `cat`: 
-cat's function is to display contents of a file. Since we're working with a file now it does what it's supposed to. 
+`cat`'s function is to display contents of a file. Since we're working with a file now it does what it's supposed to. 
 
 **Is the output an error or not?**
 
 `cd`: 
-It's definitely an error, cd is not made for working with files. 
+It's definitely an error, `cd` is not made for working with files. 
 
 `ls`: 
 No.
