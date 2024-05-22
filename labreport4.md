@@ -24,7 +24,7 @@ Wrote from scratch because I logged back into the machine.
 
 Wrote from scratch because I logged back into the machine. 
 
-## Step 6 
+### Step 6 
 
 **image**
 
@@ -36,3 +36,42 @@ Wrote from scratch because I logged back into the machine.
 ``cd<space>lab7 <enter> `` , ``ls <enter> `` , ``bash test.sh <enter>``
 
 Had to make sure I'm in the right directory before I demonstrate the test. 
+
+### Step 7 
+
+**image**
+
+<img width="551" alt="Screenshot 2024-05-21 at 19 14 04" src="https://github.com/glowone/cse15l-lab-reports/assets/146388424/fc0a6585-2265-4115-a905-3aeda8b7c531">
+
+**Keys pressed** 
+
+``vim<space>ListExamples.java <enter>``
+
+``43x j`` (43x being the amount of times i pressed said key) 
+
+``10x l``
+
+``2x x``
+
+then i fixed the wrong index code with 
+
+``i``
+
+``x2`` (im not precise in vim yet so i was 1 block off just replacing it with one keystroke.) 
+
+``esc`` 
+
+``<shift>:wq``
+
+
+### Step 8 
+
+**image** 
+
+<img width="360" alt="Screenshot 2024-05-21 at 19 17 44" src="https://github.com/glowone/cse15l-lab-reports/assets/146388424/9d3017d9-e93e-48ff-9c77-da68eb15ae23">
+
+**Keys pressed** 
+
+``bash<enter>test.sh``
+
+
