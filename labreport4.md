@@ -74,4 +74,26 @@ then i fixed the wrong index code with
 
 ``bash<enter>test.sh``
 
+### Step 9 
 
+**image** 
+
+<img width="419" alt="Screenshot 2024-05-21 at 19 40 58" src="https://github.com/glowone/cse15l-lab-reports/assets/146388424/875c7686-1925-4993-8d3d-0b3b34843f0f">
+
+**Keys pressed** 
+
+``git<enter>push<enter>myrepo<enter>main``
+
+Originally git was trying to push these changes to the branch we were supposed to fork from, I had to declare the actual origin and then could push it. 
+
+prompted to enter my username 
+
+``glowone``
+
+prompted to enter my password: 
+
+``<password>``
+
+:D
+
+Just to clarify it again, I did the lab report after the lab so all the commands were written from scratch again instead of taking shortcuts. I am also pretty slow with following instructions so this whole thing took me an astounding 30 minutes, whilst recording my keystrokes and updating the lab as I'm going on. 
